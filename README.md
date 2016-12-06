@@ -26,5 +26,6 @@ Repositorio para mostrar CRUD (Create, Read, Update, Delete) desde CodeIgniter (
 1. Abrir consola y cambiar a la carpeta `www` de WAMP Server: `cd C:/wamp/www`
 2. Cambiar a la carpeta del proyecto en Node.JS: `cd CRUD-CodeIgniter-Node/Node.JS/`
 3. Instalar dependencias: `bower install && npm install`
-4. Ingresar mediante el navegador al siguiente enlace:
+4. Iniciar servidor: `npm start`
+5. Ingresar mediante el navegador al siguiente enlace:
 [Clic aquí](http://127.0.0.1:3000/)
